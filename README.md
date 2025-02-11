@@ -1,2 +1,6 @@
-# Prolog_gamification
- 
+
+NSLNet for Steel Surface Detection | Python, Scikit, Pandas, Numpy
+
+In the realm of computer vision, I led a dynamic project focused on detecting surface flaws on steel materials. The challenge lay in developing an automated system capable of identifying diverse surface imperfections while withstanding environmental noise. Leveraging the NEU Surface Defect Database on Kaggle, containing 1,440 grayscale images of six defect types, including scratches, stains, and more, our team utilized machine learning techniques like K-Nearest Neighbours and Random Forest.
+
+My specific role involved spearheading the implementation of K-Nearest Neighbours and Random Forest models, crucial for achieving accurate defect detection. A pivotal component of our success was the integration of the Gray-Level Co-occurrence Matrix (GLCM), a texture analysis technique, into our machine learning models. GLCM enhanced the models' accuracy and robustness by extracting essential texture features, such as contrast and homogeneity, from the steel surface images. This project not only showcased my technical proficiency but also highlighted the effectiveness of GLCM in advancing the field of surface defect detection. Explore the journey of innovation and exploration that unfolded throughout this project.
